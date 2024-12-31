@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "bookId": "028ed52f",
+      "title": "カオスエンジニアリング",
+      "author": "Casey Rosenthal",
+      "isbn": "9784873119885",
+      "owner": "Taro Yamada",
+      "status": "available"
+    },
+    {
+      "bookId": "728ed52f",
+      "title": "ソフトウェアアーキテクチャの基礎",
+      "author": "Mark Richards",
+      "isbn": "9784873119823",
+      "owner": "Josuke Yamane",
+      "status": "unavailable"
+    },
+    {
+      "bookId": "sd8ed52f",
+      "title": "SRE サイトリライアビリティエンジニアリング",
+      "author": "Betsy Beyer",
+      "isbn": "9784873117911",
+      "owner": "Josuke Yamane",
+      "status": "checkedout"
+    }
+  ]
+}
