@@ -1,1 +1,4 @@
-data "aws_caller_identity" "current" { }
+module "route53_zone" {
+  source = "../../modules/route53"
+  environment = "dev"
+}
